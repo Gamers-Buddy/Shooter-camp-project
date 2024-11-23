@@ -1,4 +1,4 @@
-# Milestone 1 - APP_NAME_HERE (Unit 7)
+# Milestone 1 - Language-Buddy (Unit 7)
 
 ## Table of Contents
 
@@ -10,17 +10,20 @@
 
 ### Description
 
-[Description of your app]
+An AI-based quiz generation platform that supports users to generate custom theme quizzes, which is suitable for teachers to design curriculum quizzes for students, and can also meet the needs of individual self-study or team knowledge competitions.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Education
+- **Mobile:** The mobile terminal supports users to generate quizzes and participate in answers anytime and anywhere, which is convenient for users to use fragmented learning time.
+- **Story:** Make learning efficient and fun with AI-generated personalized quizzes. Teachers can easily create interactive quizzes, and students and users can improve their knowledge in the challenge.
+- **Market:** Target users include schools, training institutions and self-learners. It can also be used as a corporate training tool for employee knowledge assessment and team activities.
+- **Habit:** Teachers can regularly generate quizzes to test students' proficiency, students can spend a certain amount of time each day participating in exercises to consolidate knowledge, and individual users can use them long-term as part of their learning.
+- **Scope:** - V1: Provides basic test generation and answering functions.
+   - V2: Add AI analysis module to provide customized test suggestions.
+   - V3: Supports multiplayer real-time competition mode to enhance social interaction.
+   - V4: Introduced knowledge base and learning path management to enrich the test content.
 
 ## Product Spec
 
