@@ -20,7 +20,8 @@ An AI-based quiz generation platform that supports users to generate custom them
 - **Story:** Make learning efficient and fun with AI-generated personalized quizzes. Teachers can easily create interactive quizzes, and students and users can improve their knowledge in the challenge.
 - **Market:** Target users include schools, training institutions and self-learners. It can also be used as a corporate training tool for employee knowledge assessment and team activities.
 - **Habit:** Teachers can regularly generate quizzes to test students' proficiency, students can spend a certain amount of time each day participating in exercises to consolidate knowledge, and individual users can use them long-term as part of their learning.
-- **Scope:** - V1: Provides basic test generation and answering functions.
+- **Scope:**
+   - V1: Provides basic test generation and answering functions.
    - V2: Add AI analysis module to provide customized test suggestions.
    - V3: Supports multiplayer real-time competition mode to enhance social interaction.
    - V4: Introduced knowledge base and learning path management to enrich the test content.
