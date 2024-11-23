@@ -32,15 +32,17 @@ An AI-based quiz generation platform that supports users to generate custom them
 
 **Required Features**
 
-1. [fill in your required user features here]
-2. ...
-3. ...
+1. Users can learn multiple languages
+2. Users can choose to challenge or test
+3. Users can choose the language of any country
+4. Users can learn from the language robot
+5. Users can test their language proficiency
 
 **Optional Features**
 
-1. [fill in your optional user features here]
-2. ...
-3. ...
+1. Users can unlock language achievements
+2. Users can see the results of their tests
+3. Users can ask Language Buddy for help during testing
 
 ### 2. Screen Archetypes
 
