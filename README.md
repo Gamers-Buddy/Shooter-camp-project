@@ -82,7 +82,7 @@ An AI-based quiz generation platform that supports users to generate custom them
 
 ## Wireframes
 
-[framwork.pdf](https://github.com/user-attachments/files/17878637/framwork.pdf)
+![388project](https://github.com/user-attachments/assets/d7189b1c-b3db-42c3-92d7-90f184b018d3)
 
 <br>
 
