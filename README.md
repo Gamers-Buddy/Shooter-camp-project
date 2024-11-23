@@ -46,33 +46,43 @@ An AI-based quiz generation platform that supports users to generate custom them
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Home screen
+  - User can click learning 
+  - User can click challenges for testing
+- Learning screen
+  - User can add a language to study
+  - User can pick a language to continue learning
+- Chat screen
+  - Users can communicate with language partners to learn the language they want to learn
+- Challenge screen
+  - Users can choose the language they want to challenge
+  - Every time a user scores 85 or more, they can unlock the next level
+  - In the test, the user can ask the language partner 
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Learning
+* Challenges
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- Home screen
+  - learning
+  - challenges
+- Learning screen
+  - pick a language
+  - add a language
+- Chat screen
+  - home
+- Challenge screen
+  - test
+  - Chat screen
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[framwork.pdf](https://github.com/user-attachments/files/17878637/framwork.pdf)
 
 <br>
 
