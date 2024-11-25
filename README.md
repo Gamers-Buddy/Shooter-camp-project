@@ -1,4 +1,4 @@
-# Milestone 1 - Language-Buddy (Unit 7)
+# Milestone 1 - Shooter Campus (Unit 7)
 
 ## Table of Contents
 
