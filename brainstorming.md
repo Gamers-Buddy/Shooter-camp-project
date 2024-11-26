@@ -7,10 +7,10 @@ Mobile App Dev - App Brainstorming Example
 1. Language Buddy AR
 1. DailyGoals Tracker
 1. Focus Flow
-1. MoodAlign
+1. Shooter Camp
 
 ## Top 3 New App Ideas
-1. Language Buddy
+1. Shooter Camp
 2. DailyGoals Tracker
 3. QuizMaster AI
 
@@ -27,18 +27,19 @@ Mobile App Dev - App Brainstorming Example
 V2: Add reminders and rewards to make management by objectives more attractive.
 V3: Provides in-depth analysis to help users discover behavior patterns and optimize efficiency.
 V4: Expand the team function to achieve multi-user collaboration target management.
-1. Language Buddy 
-   - **Description**: Help users learn languages through augmented reality. Users scan objects around them with their phone, and the app labels them in the target language and provides pronunciation guidance. At the same time, it provides daily exercises and real-time speech correction.
-   - **Category:** Education
-   - **Mobile:** The mobile terminal is the core of the app, and users can practice the target language anytime and anywhere through their mobile phones, which is convenient and fast.
-   - **Story:** The app integrates language learning into everyday life, increasing users' motivation through interactivity and usability. Even in everyday environments, users get an instant learning experience.
-   - **Market:** For all users who want to learn a new language, especially language beginners and those who want to enhance their vocabulary. Schools, language training institutions and individual learners can all be target markets.
-   - **Habit:** Users use fragmented time every day to scan objects around them to learn new words, with a high frequency of daily use. At the same time, they regularly review what they have learned to consolidate their knowledge.
+
+1. Shooter Camp
+   - **Description**: Shooter Camp is an engaging and interactive training platform tailored for shooting game enthusiasts. The app focuses on enhancing your reaction time, memory, and precision, helping you level up your gameplay. Designed for both casual gamers and competitive esports players, Shooter Camp makes skill improvement both fun and effective.
+   - **Category:** Gaming/Training
+   - **Mobile:** Optimized for mobile devices, allowing users to train their skills on-the-go.
+   - **Story:** Shooter Camp turns training into a gamified experience, helping users enhance essential shooter skills through science-backed exercises.
+   - **Market:** Targeted at FPS/TPS gamers, esports athletes, and anyone interested in improving hand-eye coordination and cognitive abilities.
+   - **Habit:** users can incorporate training into their routine with daily exercises and progress tracking.
    - **Scope:** 
-   - V1: Basic AR annotation function and pronunciation learning module.
-V2: Add vocabulary tracking and learning progress analysis.
-V3: Provides advanced learning functions such as grammar exercises and conversation simulation.
-V4: Launch social features that allow users to interact with other learners.
+   - V1: Reaction, memory, and aiming training modules.
+   - V2: Leaderboard and achievements to enhance competition and motivation.
+   - V3: Multiplayer challenges for real-time competition.
+   - V4: Advanced analytics and AI-generated personalized training plans.
 
 1. Language Buddy AR
    - **Description**: An AI-based quiz generation platform that supports users to generate custom theme quizzes, which is suitable for teachers to design curriculum quizzes for students, and can also meet the needs of individual self-study or team knowledge competitions.
@@ -53,4 +54,4 @@ V4: Launch social features that allow users to interact with other learners.
    - V3: Supports multiplayer real-time competition mode to enhance social interaction.
    - V4: Introduced knowledge base and learning path management to enrich the test content.
 ## Final App Idea Chosen
-- Language Buddy 
+- Shooter Camp
