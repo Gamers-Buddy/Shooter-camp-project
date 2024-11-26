@@ -32,57 +32,56 @@ Shooter Camp is an engaging and interactive training platform tailored for shoot
 
 **Required Features**
 
-1. Users can learn multiple languages
-2. Users can choose to challenge or test
-3. Users can choose the language of any country
-4. Users can learn from the language robot
-5. Users can test their language proficiency
+1. Users can boost their reflex speed.
+2. Users can practice hand-eye coordination
+3. Users can train their memory
+4. Users can log in to their Google account to record their training results
+5. Users can see the results of each training session on the leaderboard
 
 **Optional Features**
 
-1. Users can unlock language achievements
-2. Users can see the results of their tests
-3. Users can ask Language Buddy for help during testing
+1. Users can unlock the memory achievements
+2. Users can strive for better results
 
 ### 2. Screen Archetypes
 
 - Home screen
-  - User can click learning 
-  - User can click challenges for testing
-- Learning screen
-  - User can add a language to study
-  - User can pick a language to continue learning
-- Chat screen
-  - Users can communicate with language partners to learn the language they want to learn
-- Challenge screen
-  - Users can choose the language they want to challenge
-  - Every time a user scores 85 or more, they can unlock the next level
-  - In the test, the user can ask the language partner 
+  - User can click reaction
+  - User can click aiming
+  - User can click memory
+- reaction screen
+  - The user needs to tap the screen once to prepare for the command, and tap the screen as fast as possible when the screen turns green.
+  - At the end, the user will see their reaction time
+- memory screen
+  - The user needs to press the buttons according to the key sequence the game prompts.
+  - The user can unlock the next level by pressing the button the same number of times and in the same order
+- Aiming screen
+  - Users need to click on the designated place to complete the precise design training.
+  - The user will finally know how long the targeting training took
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* Learning
-* Challenges
+* Games
+* Leaderboard
+* Profile
 
 **Flow Navigation** (Screen to Screen)
 
 - Home screen
-  - learning
-  - challenges
-- Learning screen
-  - pick a language
-  - add a language
-- Chat screen
+  - Aiming
+  - reaction
+  - memory
+- Leaderboard screen
+  - record the result of the training
   - home
-- Challenge screen
-  - test
-  - Chat screen
+- Profile screen
+  - login user account
 
 ## Wireframes
 
-![388project](https://github.com/user-attachments/assets/d7189b1c-b3db-42c3-92d7-90f184b018d3)
+
 
 <br>
 
