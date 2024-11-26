@@ -81,7 +81,7 @@ Shooter Camp is an engaging and interactive training platform tailored for shoot
 
 ## Wireframes
 
-![milestone1](https://github.com/user-attachments/assets/e6034d0d-bf93-4670-a616-b770744e2443)
+![milestone1](https://github.com/user-attachments/assets/43543173-c0a4-4743-b367-bd64b7288c46)
 
 <br>
 
