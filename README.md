@@ -107,12 +107,13 @@ this section]
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.]
 ![388ProjectBoard](https://github.com/user-attachments/assets/98d9d2ad-aff1-42e8-93ea-b0bab980d40b)
 ![388Projectissues1](https://github.com/user-attachments/assets/51d56310-3c1f-46e6-9861-c8b301c4b993)
-![388Projectissues2](https://github.com/user-attachments/assets/5772df6b-5a55-4431-a9c8-6d56145d3455)
+
 
 
 ## Issues worked on this sprint
 
 - List the issues you completed this sprint
+![388Projectissues2](https://github.com/user-attachments/assets/5772df6b-5a55-4431-a9c8-6d56145d3455)
 - [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
 
 <br>
