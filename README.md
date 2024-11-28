@@ -99,7 +99,7 @@ Shooter Camp is an engaging and interactive training platform tailored for shoot
 
 [Add screenshot of your Project Board with three milestones visible in
 this section]
-![388ProjectBoard](https://github.com/user-attachments/assets/9c415279-5eed-4d5e-9db9-1e3b28889121)
+![388ProjectBoard](https://github.com/user-attachments/assets/2bbe4b18-642c-4bbf-9413-088e0114a0e1)
 
 ## Issue cards
 
