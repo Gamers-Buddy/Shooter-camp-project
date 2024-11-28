@@ -103,8 +103,12 @@ this section]
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] 
+- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.]
+![388ProjectBoard](https://github.com/user-attachments/assets/98d9d2ad-aff1-42e8-93ea-b0bab980d40b)
+![388Projectissues1](https://github.com/user-attachments/assets/51d56310-3c1f-46e6-9861-c8b301c4b993)
+![388Projectissues2](https://github.com/user-attachments/assets/5772df6b-5a55-4431-a9c8-6d56145d3455)
+
 
 ## Issues worked on this sprint
 
