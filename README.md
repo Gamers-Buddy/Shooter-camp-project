@@ -114,8 +114,8 @@ this section]
 
 - List the issues you completed this sprint
 ![388Projectissues2](https://github.com/user-attachments/assets/5772df6b-5a55-4431-a9c8-6d56145d3455)
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
-- https://github.com/user-attachments/assets/94d414e8-1f76-4dc2-b15d-9f76564f642b
+[Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+![388milestone2gif](https://github.com/user-attachments/assets/bd8cf7fa-88c5-4e84-98c7-d1432a56e40a)
 
 <br>
 
