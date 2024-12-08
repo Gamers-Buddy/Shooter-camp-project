@@ -132,8 +132,8 @@ this section]
 ## Completed user stories
 
 - List the completed user stories from this unit
-  - Aiming pratice
-  - memory pratice
+  - Aiming practice
+  - memory practice
   - reaction
   - login user account
   - record the result of the training
@@ -142,7 +142,7 @@ from the original requirements
   - record the result should list out all the user
 
 [Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![388finalproject3](https://github.com/user-attachments/assets/ca8d16bb-d88c-4ac6-ac93-5d3eafbe67d6)
 
 ## App Demo Video
 
